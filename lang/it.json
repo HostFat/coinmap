@@ -1,5 +1,5 @@
 {
-	"how-to": "Per inserire un esercizio, vai sull'<a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>editor di OpenStreetMap</a> e aggiungigli il tag <strong>payment:bitcoin=yes</strong> (o <strong>payment:litecoin=yes</strong> per Litecoin).",
+	"how-to": "Per inserire un esercizio, vai sull'<a id='osm_edit_link' href='http://www.openstreetmap.org/edit' target='_blank'>editor di OpenStreetMap</a> e aggiungigli il tag <strong>payment:bitcoin=yes</strong> (o <strong>payment:litecoin=yes</strong> per Litecoin). - <a href='https://www.youtube.com/watch?v=j1IrRysFa-0' target='_blank'>guida video</a>",
 	"please-on-ground": "Si prega di non creare nuovi elementi a meno che non abbiano una <a href='http://it.wikipedia.org/wiki/Brick_and_mortar'>presenza fisica</a> sul suolo!",
 	"every-hour": "I dati sono aggiornati ogni ora. Al momento ci sono",
 	"and-": "e",
